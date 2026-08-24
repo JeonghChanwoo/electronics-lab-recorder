@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Electronics Lab Recorder</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Electronics Lab</string>
+    <string name="circuit_simulator">회로 시뮬레이터</string>
+    <string name="experiment_recorder">실험 기록</string>
+    
+    <!-- Circuit Simulator -->
+    <string name="voltage_label">전압 (V)</string>
+    <string name="current_label">전류 (A)</string>
+    <string name="resistance_label">저항 (Ω)</string>
+    <string name="power_label">전력 (W)</string>
+    <string name="calculate">계산</string>
+    <string name="clear">초기화</string>
+    
+    <!-- Experiment Recorder -->
+    <string name="experiment_title">실험 기록</string>
+    <string name="add_experiment">실험 추가</string>
+    <string name="experiment_name">실험 이름</string>
+    <string name="measurement_value">측정값</string>
+    <string name="unit">단위</string>
+    <string name="notes">메모</string>
+    <string name="save">저장</string>
+    <string name="delete">삭제</string>
+    <string name="no_experiments">기록된 실험이 없습니다</string>
+</resources>
